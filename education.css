@@ -1,0 +1,206 @@
+.my-education{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.edu-div{
+    width: 90%;
+    height: 500px;
+    border-radius: 10px;
+    background-color: rgb(241, 245, 249);
+
+}
+
+.edu-title-div{
+    width: 100%;
+    height: 90px;
+}
+
+.edu-title{
+    width: 260px;
+    height: 75px;
+    font-size: 29px;
+    color: #213555;
+    font-family: 'Heebo', sans-serif;
+    border-bottom: 3px solid #364458;
+}
+
+.edu-inner-div{
+    width: 100%;
+    height: 370px;
+    /* border: 1px solid black; */
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.edu-inner-div-main{
+    width: 93%;
+    height: 360px;
+    display: flex;
+    justify-content: space-between;
+}
+.extra{
+    all: unset;
+}
+
+.edu-inner-div-1{
+    width: 640px;
+    height: 360px;
+    /* border: 1px solid black; */
+}
+
+.edu-title-clg{
+    display: flex;
+    width: 420px;
+    height: 35px;
+    justify-content: space-around;
+}
+
+.edu-title-clg>h3{
+    color: #213555;
+    font-size: 30px;
+    font-family: 'schibsted Grotesk', sans-serif;
+    border-bottom: 3px solid #364458;
+
+}
+
+.title-icon{
+    position: relative;
+    top: 5px;
+    left: 3px;
+    height: 27px;
+    fill:#213555
+}
+
+.edu-btech{
+    width: 600px;
+    height: 140px;
+    margin-top: 40px;
+}
+
+.edu-btech-1{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 20px;
+    font-size: 23px;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    color: #2e405a;
+}
+.edu-btech-1>svg{
+    width: 20px;
+    position: relative;
+    top: 6px;
+    height: 12px;
+}
+
+.edu-btech-1>p{
+    margin-left: 10px;
+}
+
+.edu-btech-2>p{
+    margin-left: 10px;
+}
+
+
+.edu-btech-2{
+    display: flex;
+ 
+    margin-left: 15px;
+    font-size: 23px;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    color: #2e405a;
+    margin-top: 10px;
+}
+.edu-btech-2>svg{
+    width: 20px;
+    position: relative;
+    top: 6px;
+    height: 12px;
+}
+
+.sch-title-div{
+    display: flex;
+    width: 640px;
+    height: 35px;
+    justify-content: space-around;
+
+}
+
+.sch-title-div>h3{
+    color: #213555;
+    font-size: 30px;
+    font-family: 'schibsted Grotesk', sans-serif;
+    border-bottom: 3px solid #364458;
+
+}
+
+.sch-title-div>svg{
+    position: relative;
+    top: 6px;
+    left: 3px;
+    height:27px;
+}
+
+.edu-sch-1{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 13px;
+    font-size: 23px;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    color: #2e405a;
+    margin-top: 40px;
+    width: 390px;
+}
+
+.edu-sch-1>svg{
+    width: 20px;
+    position: relative;
+    top: 6px;
+}
+
+.edu-sch-1>p{
+    margin-left: 10px;
+}
+
+.edu-inner-div-2{
+    width: 700px;
+    height: 360px;
+    position: relative;
+    bottom: 50px;
+    /* border: 1px solid black; */
+    
+}
+
+.img-1{
+    width: 700px;
+    height: 360px;
+    display: flex;
+    justify-content: center;
+}
+
+.img-1>img{
+    opacity: 0.5;
+}
+
+/* .img-2{
+    width: 00px;
+    height: 300px;
+}
+
+.img-2>img{
+    width: 250px;
+    height: 250px;
+    opacity: 0.6;
+} */
+
+.border-btm-2{
+    width: 100%;
+    height: 4px;
+    background-color: #f2956d;
+    margin-top: 20px;
+}

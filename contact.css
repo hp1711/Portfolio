@@ -1,0 +1,142 @@
+.my-contact{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.contact-inner{
+    width: 40%;
+    height: 450px;
+    border-radius: 10px;
+    background-color: rgb(241, 245, 249);
+}
+
+.contact-title-div{
+    width: 100%;
+    height: 100px;
+}
+
+.contact-title{
+    width: 205px;
+    height: 75px;
+    border-bottom: 3px solid #364458;
+    position: relative;
+    left: 35px;
+    top: 10px;
+    font-size: 29px;
+    color: #213555;
+    font-family: 'Heebo', sans-serif;
+}
+
+.contact-info{
+    width: 485px;
+    color: #2e405a;
+    font-size: 22px;
+    font-family: 'Heebo', sans-serif;
+    border-bottom: 2px solid #f2956d;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.contact-list{
+    width: 500px;
+    height: 250px;
+    /* border: 1px solid black; */
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.contact-list-inner{
+    width: 400px;
+    height: 250px;
+    /* border: 1px solid black; */
+}
+
+.contact-1{
+    width: 250px;
+}
+
+.contact-2{
+    width: 290px;
+    margin-top: 10px;
+}
+
+.contact-3{
+    width: 250px;
+    margin-top: 10px;
+}
+
+.contact-4{
+    width: 250px;
+    margin-top: 10px;
+}
+
+.contact-1>a{
+    text-decoration: none;
+    margin-left: 15px;
+    color: #2e405a;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    font-size: 21px;
+}
+
+.contact-2>a{
+    text-decoration: none;
+    margin-left: 15px;
+    color: #2e405a;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    font-size: 21px;
+}
+
+.contact-3>a{
+    text-decoration: none;
+    margin-left: 15px;
+    color: #2e405a;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    font-size: 21px;
+}
+
+.contact-4>a{
+    text-decoration: none;
+    margin-left: 15px;
+    color: #2e405a;
+    font-family: 'Schibsted Grotesk', sans-serif;
+    font-size: 21px;
+}
+
+.contact-1>svg{
+    position: relative;
+    top: 5px;
+    left: 5px;
+    height: 25px;
+}
+
+.contact-2>svg{
+    position: relative;
+    top: 5px;
+    left: 5px;
+    height: 25px;
+}
+
+.contact-3>svg{
+    position: relative;
+    top: 5px;
+    left: 5px;
+    height: 25px;
+}
+
+.contact-4>svg{
+    position: relative;
+    top: 5px;
+    left: 5px;
+    height: 25px;
+}
+
+.border-btm-5{
+    width: 100%;
+    height: 4px;
+    background-color: #f2956d;
+    margin-top: 15px;
+}
